@@ -1,5 +1,7 @@
 # Regresión lineal multiple
 
+[**➔ Ver en Google Colab**](https://colab.research.google.com/github/AndrewP05/Identificaci-n_zonas_alto_riesgo/blob/main/Cruzar.ipynb)
+
 ## Objetivos
 
 ### General
